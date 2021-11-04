@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @D4N13LxD4V1D
+- 👀 I’m interested in game development🎮 and programming💻.
+- 🌱 I’m currently studying BS Computer Science🖥️ at [UP Baguio](https://web.upb.edu.ph/).
